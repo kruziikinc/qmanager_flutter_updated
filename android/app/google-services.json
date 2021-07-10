@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "753969513686",
+    "project_id": "qmanager-app",
+    "storage_bucket": "qmanager-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753969513686:android:c3099093b0a08d2f3eb577",
+        "android_client_info": {
+          "package_name": "com.qmanager.qmanager_flutter_updated"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753969513686-b7lkgvorc62sm0r52d7sre8g5raubtmf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD45-wZH3yeJJBg7ed_CKWN-R3I_xb61WI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753969513686-b7lkgvorc62sm0r52d7sre8g5raubtmf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "753969513686-6a2e7fk9l2rhersm6pdn6273vr3ej31n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.qmanager.qmanagerFlutterUpdated"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

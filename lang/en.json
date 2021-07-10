@@ -1,0 +1,15 @@
+{
+  "app_name": "Q Manager",
+  "str_login": "Login",
+  "str_submit": "Submit",
+  "str_transfer": "Transfer",
+  "sign_up": "Sign Up",
+  "customer": "Customer",
+  "vendor": "Vendor",
+  "str_home": "Home",
+  "title_my_order": "My Order",
+  "title_settings": "Settings",
+  "str_contact_us": "Contact Us",
+  "str_SignUp": "Sign up",
+  "str_updateProfile": "Update"
+}
